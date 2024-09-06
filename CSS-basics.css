@@ -39,7 +39,7 @@ fieldset {
     border: solid 1px rgba(0, 0, 0, 0.287);
     padding: 0 20px 10px; 
 }
-@media (max-width:750px) {
+@media (max-width:750px) and (min-width:270px) {
 
     body {
         flex-direction: column;
